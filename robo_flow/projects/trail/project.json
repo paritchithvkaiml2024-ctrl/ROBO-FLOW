@@ -1,0 +1,978 @@
+{
+    "name": "trail",
+    "classes": [
+        "jcb",
+        "garbage_truck"
+    ],
+    "image_folder": "E:/trial_video/video_frames",
+    "output_folder": "E:/data",
+    "train_pct": 80,
+    "val_pct": 20,
+    "images": [
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000000.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000001.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000002.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000003.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000004.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000005.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000006.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000007.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000008.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000009.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000010.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000011.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000012.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000013.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000014.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000015.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000016.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000017.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000018.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000019.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000020.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000021.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000022.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000023.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000024.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000025.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000026.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000027.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000028.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000029.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000030.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000031.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000032.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000033.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000034.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000035.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000036.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000037.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000038.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000039.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000040.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000041.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000042.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000043.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000044.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000045.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000046.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000047.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000048.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000049.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000050.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000051.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000052.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000053.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000054.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000055.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000056.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000057.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000058.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000059.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000060.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000061.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000062.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000063.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000064.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000065.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000066.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000067.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000068.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000069.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000070.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000071.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000072.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000073.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000074.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000075.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000076.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000077.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000078.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000079.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000080.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000081.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000082.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000083.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000084.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000085.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000086.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000087.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000088.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000089.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000090.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000091.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000092.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000093.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000094.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000095.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000096.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000097.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000098.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000099.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000100.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000101.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000102.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000103.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000104.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000105.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000106.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000107.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000108.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000109.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000110.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000111.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000112.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000113.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000114.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000115.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000116.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000117.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000118.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000119.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000120.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000121.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000122.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000123.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000124.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000125.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000126.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000127.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000128.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000129.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000130.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000131.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000132.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000133.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000134.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000135.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000136.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000137.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000138.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000139.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000140.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000141.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000142.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000143.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000144.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000145.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000146.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000147.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000148.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000149.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000150.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000151.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000152.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000153.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000154.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000155.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000156.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000157.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000158.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000159.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000160.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000161.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000162.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000163.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000164.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000165.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000166.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000167.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000168.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000169.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000170.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000171.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000172.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000173.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000174.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000175.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000176.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000177.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000178.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000179.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000180.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000181.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000182.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000183.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000184.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000185.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000186.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000187.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000188.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000189.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000190.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000191.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000192.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000193.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000194.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000195.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000196.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000197.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000198.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000199.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000200.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000201.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000202.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000203.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000204.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000205.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000206.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000207.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000208.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000209.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000210.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000211.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000212.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000213.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000214.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000215.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000216.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000217.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000218.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000219.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000220.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000221.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000222.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000223.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000224.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000225.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000226.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000227.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000228.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000229.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000230.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000231.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000232.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000233.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000234.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000235.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000236.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000237.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000238.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000239.jpg"
+        },
+        {
+            "folder": "E:/trial_video/video_frames",
+            "file": "frame_000240.jpg"
+        }
+    ],
+    "current_index": 8
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dataset Exported</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>
+        Dataset Exported Successfully
+    </h1>
+
+    <p>
+        Output Folder:
+    </p>
+
+    <p>
+        {{ dataset_path }}
+    </p>
+    <p>
+    Format:
+    {{ export_format }}
+</p>
+
+    <br>
+
+    <a href="/">
+        <button>
+            Home
+        </button>
+    </a>
+
+    <a href="/open_project/{{ session['project'] }}">
+        <button>
+            Back To Project
+        </button>
+    </a>
+
+</div>
+
+</body>
+</html>

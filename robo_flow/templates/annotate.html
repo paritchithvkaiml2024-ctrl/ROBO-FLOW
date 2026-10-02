@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Annotation Tool</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+{% if completed %}
+
+<div class="container">
+
+    <h1>All Images Completed</h1>
+
+    <br>
+
+    <a href="/finalize">
+
+        <button>
+            Build YOLO Dataset
+        </button>
+
+    </a>
+
+    <br><br>
+
+    <button
+        type="button"
+        onclick="addFolder()">
+
+        Add Folder
+
+    </button>
+
+</div>
+
+<script>
+
+async function addFolder(){
+
+    const response =
+        await fetch(
+            "/browse_folder"
+        );
+
+    const data =
+        await response.json();
+
+    if(!data.folder)
+        return;
+
+    await fetch(
+        "/add_folder",
+        {
+            method:"POST",
+
+            headers:{
+                "Content-Type":
+                "application/json"
+            },
+
+            body:JSON.stringify({
+                folder:data.folder
+            })
+        }
+    );
+
+    location.reload();
+
+}
+
+</script>
+
+{% else %}
+
+<div class="topbar">
+
+    <div>
+        Image {{ image_index }}
+        /
+        {{ total_images }}
+    </div>
+    <div>
+        Labeled:
+        {{ image_index - 1 }}
+    </div>
+    <div id="selectedClass">
+        Class: 0
+    </div>
+<div id="modeDisplay">
+    Mode: Rectangle
+</div>
+</div>
+
+<div class="sidebar">
+
+    <h3>Classes</h3>
+
+    {% for cls in classes %}
+
+        <div
+    class="class-item"
+    data-class="{{ loop.index0 }}">
+
+    {{ loop.index0 }}
+    →
+    {{ cls }}
+
+</div>
+
+    {% endfor %}
+    <hr>
+
+
+
+<h3>Project</h3>
+
+<button
+    type="button"
+    onclick="addFolder()">
+
+    Add Folder
+
+</button>
+
+
+    <hr>
+
+<h3>Keyboard Shortcuts</h3>
+
+<div class="shortcut">␣ Space → Save & Next</div>
+
+<div class="shortcut">N → Skip Image</div>
+
+<div class="shortcut">C → Clear Annotations</div>
+
+<div class="shortcut">R → Rectangle Mode</div>
+
+<div class="shortcut">P → Polygon Mode</div>
+
+<div class="shortcut">0-9 → Select Class</div>
+
+<hr>
+
+</div>
+
+<div class="canvas-container">
+
+    <canvas id="canvas"></canvas>
+
+</div>
+<script>
+
+async function addFolder(){
+
+    const response =
+        await fetch(
+            "/browse_folder"
+        );
+
+    const data =
+        await response.json();
+
+    if(!data.folder)
+        return;
+
+    await fetch(
+        "/add_folder",
+        {
+            method:"POST",
+            headers:{
+                "Content-Type":
+                "application/json"
+            },
+            body:JSON.stringify({
+                folder:data.folder
+            })
+        }
+    );
+
+    location.reload();
+
+}
+
+</script>
+
+<script>
+
+const IMAGE_NAME = "{{ image_name }}";
+
+const CLASSES = {{ classes | tojson }};
+
+</script>
+
+<script>
+
+window.addEventListener(
+    "load",
+    () => {
+
+        document
+        .querySelectorAll(
+            ".class-item"
+        )
+        .forEach(item => {
+
+            const idx =
+                parseInt(
+                    item.dataset.class
+                );
+
+            const hue =
+                (idx * 137.508) % 360;
+
+            item.style.background =
+                `hsl(${hue},90%,55%)`;
+
+            item.style.color =
+                "white";
+
+        });
+
+    }
+);
+
+</script>
+
+<script src="/static/app.js"></script>
+
+{% endif %}
+
+</body>
+</html>

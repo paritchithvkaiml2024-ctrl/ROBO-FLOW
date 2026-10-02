@@ -1,0 +1,2166 @@
+{
+    "name": "data",
+    "classes": [
+        "arm_sleeve"
+    ],
+    "image_folder": "C:\\Users\\DELL\\Downloads\\robo frames\\arm_sleeves_images (1)",
+    "output_folder": "C:\\Users\\DELL\\Downloads\\robo frames\\roboframes op",
+    "export_format": "yolo_det",
+    "train_pct": 80,
+    "val_pct": 20,
+    "images": [
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_1.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_10.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_100.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_101.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_102.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_103.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_104.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_105.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_106.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_107.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_108.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_109.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_11.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_110.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_111.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_112.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_113.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_114.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_115.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_116.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_117.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_118.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_119.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_12.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_120.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_121.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_122.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_123.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_124.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_125.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_126.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_127.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_128.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_129.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_13.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_130.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_131.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_132.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_133.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_134.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_135.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_136.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_137.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_138.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_139.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_14.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_140.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_141.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_142.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_143.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_144.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_145.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_146.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_147.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_148.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_149.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_15.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_150.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_151.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_152.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_153.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_154.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_155.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_156.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_157.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_158.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_159.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_16.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_160.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_161.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_162.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_163.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_164.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_165.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_166.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_167.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_168.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_169.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_17.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_170.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_171.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_172.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_173.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_174.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_175.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_176.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_177.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_178.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_179.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_18.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_180.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_181.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_182.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_183.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_184.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_185.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_186.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_187.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_188.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_189.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_19.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_190.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_191.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_192.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_193.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_194.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_195.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_196.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_197.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_198.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_199.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_2.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_20.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_200.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_201.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_202.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_203.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_204.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_205.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_206.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_207.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_208.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_209.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_21.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_210.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_211.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_212.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_213.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_214.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_215.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_216.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_217.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_218.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_219.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_22.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_220.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_221.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_222.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_223.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_224.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_225.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_226.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_227.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_228.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_229.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_23.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_230.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_231.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_232.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_233.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_234.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_235.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_236.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_237.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_238.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_239.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_24.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_240.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_241.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_242.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_243.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_244.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_245.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_246.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_247.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_248.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_249.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_25.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_250.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_251.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_252.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_253.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_254.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_255.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_256.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_257.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_258.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_259.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_26.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_260.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_261.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_262.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_263.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_264.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_265.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_266.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_267.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_268.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_269.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_27.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_270.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_271.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_272.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_273.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_274.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_275.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_276.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_277.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_278.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_279.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_28.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_280.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_281.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_282.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_283.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_284.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_285.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_286.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_287.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_288.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_289.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_29.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_290.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_291.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_292.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_293.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_294.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_295.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_296.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_297.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_298.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_299.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_3.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_30.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_300.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_301.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_302.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_303.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_304.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_305.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_306.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_307.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_308.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_309.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_31.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_310.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_311.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_312.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_313.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_314.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_315.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_316.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_317.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_318.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_319.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_32.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_320.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_321.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_322.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_323.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_324.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_325.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_326.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_327.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_328.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_329.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_33.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_330.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_331.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_332.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_333.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_334.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_335.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_336.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_337.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_338.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_339.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_34.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_340.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_341.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_342.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_343.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_344.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_345.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_346.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_347.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_348.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_349.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_35.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_350.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_351.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_352.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_353.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_354.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_355.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_356.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_357.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_358.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_359.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_36.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_360.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_361.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_362.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_363.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_364.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_365.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_366.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_367.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_368.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_369.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_37.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_370.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_371.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_372.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_373.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_374.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_375.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_376.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_377.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_378.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_379.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_38.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_380.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_381.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_382.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_383.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_384.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_385.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_386.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_387.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_388.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_389.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_39.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_390.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_391.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_392.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_393.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_394.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_395.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_396.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_397.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_398.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_399.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_4.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_40.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_400.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_401.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_402.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_403.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_404.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_405.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_406.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_407.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_408.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_409.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_41.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_410.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_411.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_412.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_413.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_414.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_415.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_416.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_417.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_418.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_419.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_42.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_420.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_421.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_422.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_423.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_424.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_425.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_426.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_427.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_428.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_429.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_43.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_430.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_431.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_432.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_433.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_434.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_435.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_436.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_437.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_438.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_439.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_44.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_440.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_441.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_442.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_443.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_444.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_445.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_446.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_447.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_448.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_449.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_45.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_450.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_451.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_452.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_453.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_454.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_455.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_456.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_457.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_458.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_459.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_46.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_460.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_461.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_462.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_463.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_464.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_465.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_466.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_467.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_468.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_469.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_47.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_470.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_471.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_472.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_473.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_474.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_475.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_476.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_477.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_478.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_479.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_48.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_480.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_481.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_482.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_483.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_484.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_485.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_486.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_487.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_488.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_489.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_49.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_490.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_491.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_492.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_493.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_494.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_495.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_496.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_497.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_498.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_499.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_5.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_50.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_500.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_501.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_502.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_503.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_504.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_505.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_506.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_507.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_508.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_509.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_51.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_510.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_511.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_512.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_513.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_514.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_515.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_516.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_517.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_518.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_519.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_52.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_520.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_521.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_522.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_523.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_524.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_525.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_526.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_527.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_528.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_529.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_53.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_530.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_531.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_532.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_533.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_534.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_535.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_536.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_537.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_54.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_55.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_56.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_57.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_58.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_59.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_6.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_60.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_61.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_62.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_63.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_64.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_65.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_66.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_67.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_68.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_69.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_7.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_70.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_71.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_72.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_73.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_74.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_75.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_76.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_77.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_78.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_79.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_8.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_80.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_81.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_82.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_83.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_84.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_85.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_86.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_87.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_88.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_89.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_9.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_90.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_91.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_92.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_93.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_94.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_95.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_96.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_97.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_98.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images",
+            "file": "arm_sleeve_99.jpg"
+        }
+    ],
+    "current_index": 537,
+    "image_folders": [
+        "C:\\Users\\DELL\\Downloads\\robo frames\\arm_sleeves_images (1)",
+        "C:/Users/DELL/Downloads/robo frames/arm_sleeves_images (1)/arm_sleeves_images"
+    ]
+}

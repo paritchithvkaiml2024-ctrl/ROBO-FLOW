@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>
+        Video Frame Extractor
+    </title>
+
+    <link rel="stylesheet"
+          href="/static/style.css">
+
+</head>
+<body>
+<div class="topbar">
+
+    <a href="/">
+        <button>Projects</button>
+    </a>
+
+    <a href="/video_extractor">
+        <button>Video Extractor</button>
+    </a>
+
+</div>
+<div class="container">
+    <div style="margin-bottom:20px;">
+
+    <a href="/">
+
+        <button>
+
+            ← Back To Home
+
+        </button>
+
+    </a>
+
+</div>
+    <h1>
+        Video Frame Extractor
+    </h1>
+
+    <label>
+        Video File
+    </label>
+
+    <div class="folder-row">
+
+        <input
+            type="text"
+            id="video_path"
+            readonly>
+
+        <button
+            onclick="browseVideo()">
+            Browse
+        </button>
+
+    </div>
+
+    <label>
+        Output Folder
+    </label>
+
+    <div class="folder-row">
+
+        <input
+            type="text"
+            id="output_folder"
+            readonly>
+
+        <button
+            onclick="browseOutput()">
+            Browse
+        </button>
+
+    </div>
+
+    <label>
+        Capture FPS
+    </label>
+
+    <input
+        type="number"
+        id="capture_fps"
+        value="1">
+
+    <hr>
+
+<div class="topbar">
+
+    <div>
+        FPS:
+        <span id="fpsDisplay">
+            1
+        </span>
+    </div>
+
+    <div>
+        Saved Frames:
+        <span id="savedCount">
+            0
+        </span>
+    </div>
+
+    <div>
+        <span
+            id="captureStatus"
+            class="capture-off">
+
+            READY
+
+        </span>
+    </div>
+
+</div>
+
+<br>
+
+<video
+    id="videoPlayer"
+    width="900"
+    controls>
+</video>
+
+<br><br>
+
+<button onclick="playVideo()">
+    Play
+</button>
+
+<button onclick="pauseVideo()">
+    Pause
+</button>
+
+<button onclick="saveCurrentFrame()">
+    Save Current Frame
+</button>
+
+<canvas
+    id="hiddenCanvas"
+    style="display:none">
+</canvas>
+
+    <hr>
+
+    <button
+        onclick="startExtract()">
+
+        Start Extraction
+
+    </button>
+
+    <hr>
+
+    <div id="status">
+
+        Ready
+
+    </div>
+
+</div>
+
+<script src="/static/video_extractor.js"></script>
+
+</body>
+</html>

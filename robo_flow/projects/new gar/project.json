@@ -1,0 +1,43 @@
+{
+    "name": "new gar",
+    "classes": [
+        "garbage truck",
+        "jcb",
+        "lorry"
+    ],
+    "image_folder": "C:/Users/Vijey Abinessh/OneDrive/Pictures/Camera Roll",
+    "output_folder": "E:/gar",
+    "train_pct": 80,
+    "val_pct": 20,
+    "images": [
+        {
+            "folder": "C:/Users/Vijey Abinessh/OneDrive/Pictures/Camera Roll",
+            "file": "WIN_20260404_19_37_42_Pro.jpg"
+        },
+        {
+            "folder": "C:/Users/Vijey Abinessh/OneDrive/Pictures/Camera Roll",
+            "file": "WIN_20260404_19_37_43_Pro.jpg"
+        },
+        {
+            "folder": "C:/Users/Vijey Abinessh/OneDrive/Pictures/Camera Roll",
+            "file": "WIN_20260519_12_45_52_Pro.jpg"
+        },
+        {
+            "folder": "C:/Users/Vijey Abinessh/OneDrive/Pictures/Camera Roll",
+            "file": "WIN_20260519_12_45_57_Pro.jpg"
+        },
+        {
+            "folder": "C:/Users/Vijey Abinessh/OneDrive/Pictures/Camera Roll",
+            "file": "WIN_20260519_12_46_00_Pro.jpg"
+        },
+        {
+            "folder": "C:/Users/Vijey Abinessh/OneDrive/Pictures/Camera Roll",
+            "file": "WIN_20260519_12_50_35_Pro.jpg"
+        },
+        {
+            "folder": "C:/Users/Vijey Abinessh/OneDrive/Pictures/Camera Roll",
+            "file": "WIN_20260519_12_51_00_Pro.jpg"
+        }
+    ],
+    "current_index": 7
+}

@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YOLO Labeler</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    
+<a href="/video_extractor">
+    <button>
+        Video Frame Extractor
+    </button>
+</a>
+
+<div class="container">
+
+    <h1>Create Project</h1>
+
+    <form method="POST" action="/create_project">
+
+        <label>Project Name</label>
+        <input type="text"
+               name="project_name"
+               required>
+
+        <label>Classes (comma separated)</label>
+        <input type="text"
+               name="classes"
+               placeholder="truck,excavator,jcb"
+               required>
+
+        <label>Image Folder</label>
+
+        <div class="folder-row">
+
+            <input type="text"
+                   id="image_folder"
+                   name="image_folder"
+                   required>
+
+            <button type="button"
+                    onclick="browseFolder('image_folder')">
+                Browse
+            </button>
+
+        </div>
+
+        <label>Output Dataset Folder</label>
+
+        <div class="folder-row">
+
+            <input type="text"
+                   id="output_folder"
+                   name="output_folder"
+                   required>
+
+            <button type="button"
+                    onclick="browseFolder('output_folder')">
+                Browse
+            </button>
+
+        </div>
+        <label>Export Format</label>
+
+<select name="export_format">
+
+    <option value="yolo_det">
+        YOLO Detection
+    </option>
+
+    <option value="yolo_seg">
+        YOLO Segmentation
+    </option>
+
+    <option value="coco_det">
+        COCO Detection
+    </option>
+
+    <option value="coco_seg">
+        COCO Segmentation
+    </option>
+
+</select>
+
+        <label>Train %</label>
+        <input type="number"
+               name="train_pct"
+               value="80">
+
+        <label>Val %</label>
+        <input type="number"
+               name="val_pct"
+               value="20">
+
+        <button type="submit">
+            Create Project
+        </button>
+
+    </form>
+
+</div>
+<hr>
+
+<h2>Existing Projects</h2>
+
+{% for project in projects %}
+
+<div class="project-card">
+
+    <h3>{{ project.name }}</h3>
+
+    <p>
+        Progress:
+        {{ project.completed }}
+        /
+        {{ project.total }}
+    </p>
+
+    <a href="/open_project/{{ project.name }}">
+    <button>
+        Open
+    </button>
+</a>
+
+<button
+    onclick="addFolderToProject('{{ project.name }}')">
+    Add Folder
+</button>
+
+<a href="/delete_project/{{ project.name }}"
+   onclick="return confirm('Delete project?')">
+    <button>
+        Delete
+    </button>
+</a>
+
+</div>
+
+{% endfor %}
+
+<script>
+
+async function addFolderToProject(projectName){
+
+    const response =
+        await fetch(
+            "/browse_folder"
+        );
+
+    const data =
+        await response.json();
+
+    if(!data.folder)
+        return;
+
+    await fetch(
+        "/add_folder_to_project",
+        {
+            method:"POST",
+            headers:{
+                "Content-Type":
+                "application/json"
+            },
+            body:JSON.stringify({
+                project:projectName,
+                folder:data.folder
+            })
+        }
+    );
+
+    alert(
+        "Folder added successfully"
+    );
+
+    location.reload();
+
+}
+
+</script>
+<script>
+
+async function browseFolder(inputId){
+
+    try{
+
+        const response =
+            await fetch('/browse_folder');
+
+        const data =
+            await response.json();
+
+        if(data.folder){
+
+            document
+                .getElementById(inputId)
+                .value = data.folder;
+
+        }
+
+    }
+    catch(error){
+
+        console.error(error);
+        alert("Failed to open folder picker");
+
+    }
+
+}
+
+</script>
+
+</body>
+</html>

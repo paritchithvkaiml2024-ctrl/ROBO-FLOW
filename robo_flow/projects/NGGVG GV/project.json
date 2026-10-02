@@ -1,0 +1,138 @@
+{
+    "name": "NGGVG GV",
+    "classes": [
+        "arm_sleeve"
+    ],
+    "image_folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+    "output_folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/models",
+    "export_format": "yolo_det",
+    "train_pct": 75,
+    "val_pct": 25,
+    "images": [
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000000.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000001.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000002.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000003.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000004.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000005.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000006.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000007.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000008.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000009.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000010.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000011.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000012.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000013.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000014.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000015.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000016.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000017.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000018.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000019.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000020.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000021.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000022.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000023.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000024.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000025.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000026.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000027.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000028.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000029.jpg"
+        },
+        {
+            "folder": "C:/Users/DELL/Downloads/mine-safety-ai/mine-safety-ai/output 2 (1)_frames",
+            "file": "frame_000030.jpg"
+        }
+    ],
+    "current_index": 31
+}
